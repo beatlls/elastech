@@ -1,5 +1,4 @@
 package org.example.aula12;
-git
 import java.util.HashSet;
 
 public class AulaSets {

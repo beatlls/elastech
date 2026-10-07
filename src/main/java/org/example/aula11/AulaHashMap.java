@@ -2,7 +2,7 @@ package org.example.aula11;
 
 import java.util.HashMap;
 
-public class aulaHashMap {
+public class AulaHashMap {
     public static void main(String[] args) {
         /*..put("Ana", 28);
         .get("Ana");
