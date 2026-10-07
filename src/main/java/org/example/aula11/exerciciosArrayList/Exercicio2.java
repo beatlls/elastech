@@ -1,6 +1,5 @@
-package org.example.aulaArrayList.exercicios;
+package org.example.aula11.exerciciosArrayList;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Exercicio2 {
