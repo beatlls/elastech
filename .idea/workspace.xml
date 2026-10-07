@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d104aaa2-d77e-447c-8852-ac21cf050f41" name="Changes" comment="Aula do dia 06/10, contendo a revisão de HashMap e apresentação das estruturas de dados Queue e Sets." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;beatlls&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/beatlls/elastech.git&quot;,
+    &quot;accountId&quot;: &quot;26474fc2-d065-4e56-9a2d-81ea31941907&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;beatlls&quot;,
+    &quot;repository&quot;: &quot;elastech&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3JhEtLh3KQGj9fbpcjL7bulrMvN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AulaArrayList.executor": "Run",
+    "Application.AulaStrings.executor": "Run",
+    "Application.BoasVindas.executor": "Run",
+    "Application.CadastroUsuario.executor": "Run",
+    "Application.Desafio.executor": "Run",
+    "Application.Desafio2.executor": "Run",
+    "Application.Divisao.executor": "Run",
+    "Application.Especificando.executor": "Run",
+    "Application.EstruturaDecisao1.executor": "Run",
+    "Application.EstruturaDecisao2.executor": "Run",
+    "Application.EstruturaDecisao3.executor": "Run",
+    "Application.EstruturaDecisao4.executor": "Run",
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio2.executor": "Run",
+    "Application.Exercicio3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
+    "Application.Exercicio5.executor": "Run",
+    "Application.Exercicio6.executor": "Run",
+    "Application.Exercicio61.executor": "Run",
+    "Application.ExercicioAritmetico3.executor": "Run",
+    "Application.ExercicioAritmetico4.executor": "Run",
+    "Application.ExercicioAritmetico5.executor": "Run",
+    "Application.Lanche.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MenuInterativo.executor": "Run",
+    "Application.Metodos.executor": "Run",
+    "Application.Nome.executor": "Run",
+    "Application.Nomes.executor": "Run",
+    "Application.Notas.executor": "Run",
+    "Application.Operadores.executor": "Run",
+    "Application.OperadoresRelacionais1.executor": "Run",
+    "Application.OperadoresRelacionais2.executor": "Run",
+    "Application.OperadoresRelacionais3.executor": "Run",
+    "Application.OperadoresRelacionais4.executor": "Run",
+    "Application.ParImpar.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.Principal2.executor": "Run",
+    "Application.Principal3.executor": "Run",
+    "Application.Revisao.executor": "Run",
+    "Application.Scannear.executor": "Run",
+    "Application.Scanner.executor": "Run",
+    "Application.aula.executor": "Run",
+    "Application.aulaHashMap.executor": "Run",
+    "Application.exercicioAritmetico.executor": "Run",
+    "Application.exercicioConcatenacao.executor": "Run",
+    "Application.idade.executor": "Run",
+    "Application.notas.executor": "Run",
+    "Application.numerosInteiros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/biama/OneDrive/Documents/elastech",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="elastech" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="elastech" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="elastech" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="elastech" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d104aaa2-d77e-447c-8852-ac21cf050f41" name="Changes" comment="" />
+      <created>1790105116088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790105116088</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Aulas do curso de Java do Elas Tech, da SoulCode em parceria com o Pagbank">
+      <option name="closed" value="true" />
+      <created>1790891708158</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790891708158</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercícios da aula do dia 02/10 de Try e Catch.">
+      <option name="closed" value="true" />
+      <created>1791135534073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791135534073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Exercícios de revisão de métodos e aula de ArrayList do dia 05/10">
+      <option name="closed" value="true" />
+      <created>1791244488291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791244488291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercícios de ArrayList e List, realizados na aula do dia 05/10.">
+      <option name="closed" value="true" />
+      <created>1791247566142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791247566142</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercícios de ArrayList e List, realizados na aula do dia 05/10.">
+      <option name="closed" value="true" />
+      <created>1791394161958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791394161958</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Aula do dia 06/10, contendo a revisão de HashMap e apresentação das estruturas de dados Queue e Sets.">
+      <option name="closed" value="true" />
+      <created>1791394373755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791394373755</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aulas do curso de Java do Elas Tech, da SoulCode em parceria com o Pagbank" />
+    <MESSAGE value="Exercícios da aula do dia 02/10 de Try e Catch." />
+    <MESSAGE value="Exercícios de revisão de métodos e aula de ArrayList do dia 05/10" />
+    <MESSAGE value="Exercícios de ArrayList e List, realizados na aula do dia 05/10." />
+    <MESSAGE value="Aula do dia 06/10, contendo a revisão de HashMap e apresentação das estruturas de dados Queue e Sets." />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula do dia 06/10, contendo a revisão de HashMap e apresentação das estruturas de dados Queue e Sets." />
+  </component>
+</project>
