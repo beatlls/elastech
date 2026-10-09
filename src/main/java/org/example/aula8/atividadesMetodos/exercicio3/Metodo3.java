@@ -1,4 +1,4 @@
-package org.example.aula8.atividadesMetodos.Exercicio3;
+package org.example.aula8.atividadesMetodos.exercicio3;
 
 public class Metodo3 {
     static void dobro(int numero) {

@@ -1,4 +1,4 @@
-package org.example.aula8.atividadesMetodos.Exercicio2;
+package org.example.aula8.atividadesMetodos.exercicio2;
 
 public class Metodo2 {
 
