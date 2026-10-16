@@ -6,6 +6,7 @@ public class Pet {
     double peso;
     String porte;
 
+
     public String definirPorte() {
         if (peso < 10.0) {
             return "Porte Pequeno";
@@ -14,6 +15,10 @@ public class Pet {
         } else {
             return "Porte Grande";
         }
+    }
+
+    void emitirSom() {
+
     }
 
 }
