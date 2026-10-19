@@ -1,7 +1,11 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.menu;
 
-import java.sql.SQLOutput;
-import java.util.ArrayDeque;
+import org.example.projetoPetshop.service.Banho;
+import org.example.projetoPetshop.service.Consulta;
+import org.example.projetoPetshop.repository.BancoDePets;
+import org.example.projetoPetshop.service.Servico;
+import org.example.projetoPetshop.service.Tosa;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

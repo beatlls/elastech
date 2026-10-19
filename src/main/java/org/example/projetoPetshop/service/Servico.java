@@ -1,4 +1,4 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.service;
 
 public interface Servico{
     void executarServicos (String nomeDoPet);

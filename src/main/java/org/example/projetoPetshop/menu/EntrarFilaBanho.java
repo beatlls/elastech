@@ -1,9 +1,10 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.menu;
 
-import java.util.ArrayDeque;
+import org.example.projetoPetshop.repository.BancoDePets;
+
 import java.util.Scanner;
 
-public class EntrarFilaBanho implements Menu{
+public class EntrarFilaBanho implements Menu {
 
     @Override
     public void executar(Scanner sc, BancoDePets banco) {

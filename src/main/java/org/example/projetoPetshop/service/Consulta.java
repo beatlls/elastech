@@ -1,6 +1,6 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.service;
 
-public class Consulta implements Servico{
+public class Consulta implements Servico {
     @Override
     public void executarServicos(String nomeDoPet) {
         System.out.println("Consultando pet (" + nomeDoPet + ")...");

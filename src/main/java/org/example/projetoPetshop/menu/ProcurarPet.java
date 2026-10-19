@@ -1,4 +1,6 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.menu;
+
+import org.example.projetoPetshop.repository.BancoDePets;
 
 import java.util.Scanner;
 

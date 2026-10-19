@@ -1,10 +1,10 @@
-package org.example.aula14.projetoPetshop;
+package org.example.projetoPetshop.model;
 
 public class Pet {
-    String nome;
-    String especie;
-    double peso;
-    String porte;
+    public String nome;
+    public String especie;
+    public double peso;
+    public String porte;
 
 
     public String definirPorte() {
@@ -17,7 +17,7 @@ public class Pet {
         }
     }
 
-    void emitirSom() {
+    public void emitirSom() {
 
     }
 
