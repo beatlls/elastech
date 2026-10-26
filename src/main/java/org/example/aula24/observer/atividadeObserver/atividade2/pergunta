@@ -1,0 +1,2 @@
+2 - No Observer, o que é o Subject  e o que é o Observer? Como o Subject avisa os observadores sem conhecer as classes concretas deles?
+R: o Subject é aquele que gera o aviso e envia para outros Observers, enquanto o Observer é a interface que necessita do Subject para enviar a notificação para o usuário.

@@ -1,0 +1,2 @@
+1 - Qual problema o padrão Observer resolve? Dê um exemplo do dia a dia que funcione como ele.
+R: Quando estamos de olho em um produto, gostamos de ver caso ele abaixe o preço ou retorne para o estoque. O observer facilita isso, mandando um email que, ao se cadastrar, você recebe atualizações daquele pedido.
