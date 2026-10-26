@@ -1,0 +1,6 @@
+1. (mesma classe — muda a QUANTIDADE de parâmetros)
+
+   Crie a classe Calculadora com TRÊS métodos chamados calcularArea():
+   - recebe um double (lado do quadrado)  -> lado * lado
+   - recebe dois double (base e altura)   -> base * altura
+   - recebe um int (raio do círculo)      -> 3.14159 * raio * raio
