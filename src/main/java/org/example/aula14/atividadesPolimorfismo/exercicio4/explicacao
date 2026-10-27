@@ -1,0 +1,10 @@
+4. (herança — quem não sobrescreve)
+
+   Crie a classe Estagiaria, filha de Pessoa, que NÃO sobrescreve
+   o apresentar() e não acrescenta nada.
+
+   Na Main, crie o objeto, dê valor aos atributos, guarde ele numa
+   variável do tipo da mãe e chame o método apresentar().
+
+   O que saiu? Por quê?
+R: Saiu os dados da estagiária, porque, independente de ter ou não chamado na classe filha, os métodos da classe mãe já são implementados nela.

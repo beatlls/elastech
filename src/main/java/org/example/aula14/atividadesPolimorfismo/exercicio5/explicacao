@@ -1,0 +1,11 @@
+5. (herança — método que recebe a mãe)
+
+   Crie um método na sua classe Main:
+
+   static void mostrarFicha(Pessoa p) {
+       p.apresentar();
+   }
+
+   Chame ele três vezes, passando a aluna, a professora e a estagiária.
+
+   O método não sabe quem vai receber, e funciona pros três.

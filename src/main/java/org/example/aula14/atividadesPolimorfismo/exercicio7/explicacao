@@ -1,0 +1,17 @@
+7. (a armadilha)
+
+   Na Professora, troque o apresentar() sobrescrito por este,
+   com um parâmetro a mais e SEM o @Override:
+
+   void apresentar(String cargo) {
+       System.out.println("Oi, sou " + nome + ", " + cargo);
+   }
+
+   Rode o exercício 3 de novo. O que a professora imprime agora?
+   Deu algum erro?
+
+   Depois coloque o @Override nesse método e veja o que o Java diz.
+
+   Essa questão mostra por que o @Override existe.
+
+   R: Obtive o erro, pois na minha classe filha eu adicionei o String cargo, e ele sempre vai dar erro pois na classe mãe isso não é pedido.
